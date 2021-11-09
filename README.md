@@ -1,5 +1,5 @@
-# Desarrolladoras-Samsung-UAH
-Proyectos realizados sobre Front-End y FullStack en el programa Desarrolladoras de Samsung, la Universidad de Alcalá (UAH) y Bejob
+# Desarrolladoras
+Proyectos realizados sobre Front-End y FullStack en el programa Desarrolladoras
 
 0. Formulario final del Módulo 2
 1. Javascript - Revisión del DNI
