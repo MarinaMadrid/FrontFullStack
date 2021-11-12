@@ -1,5 +1,5 @@
 # Desarrolladoras
-Proyectos realizados sobre Front-End y FullStack en el programa Desarrolladoras
+Proyectos realizados sobre Front-End y FullStack.
 
 0. Formulario final del Módulo 2
 1. Javascript - Revisión del DNI
